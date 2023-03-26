@@ -9,7 +9,6 @@ import org.springframework.context.annotation.Configuration;
 
 @SpringBootApplication
 public class SpringIoCApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringIoCApplication.class, args);
 		//spring application이 실행된 후 적용될 내용
